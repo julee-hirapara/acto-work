@@ -1,0 +1,47 @@
+{
+  "110001": {
+    "x-fp-date": "20260413T055929Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"110001\",\"state_code\":\"07\",\"city\":\"Central Delhi\",\"state\":\"Delhi\"}"
+  },
+  "201001": {
+    "x-fp-date": "20260413T060137Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"201001\",\"state_code\":\"09\",\"city\":\"Ghaziabad\",\"state\":\"Uttar Pradesh\"}"
+  },
+  "380001": {
+    "x-fp-date": "20260413T060216Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"380001\",\"state_code\":\"24\",\"city\":\"Ahmedabad\",\"state\":\"Gujarat\"}"
+  },
+  "400078": {
+    "x-fp-date": "20260413T060250Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"400078\",\"state_code\":\"27\",\"city\":\"Mumbai\",\"state\":\"Maharashtra\"}"
+  },
+  "400092": {
+    "x-fp-date": "20260413T060343Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"400092\",\"state_code\":\"27\",\"city\":\"Mumbai\",\"state\":\"Maharashtra\"}"
+  },
+  "700001": {
+    "x-fp-date": "20260413T060421Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"700001\",\"state_code\":\"19\",\"city\":\"Kolkata\",\"state\":\"West Bengal\"}"
+  },
+  "580020": {
+    "x-fp-date": "20260413T060457Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"580020\",\"state_code\":\"29\",\"city\":\"Dharwad\",\"state\":\"Karnataka\"}"
+  },
+  "422001": {
+    "x-fp-date": "20260413T060533Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"422001\",\"state_code\":\"27\",\"city\":\"Nashik\",\"state\":\"Maharashtra\"}"
+  },
+  "302001": {
+    "x-fp-date": "20260413T060609Z",
+    "x-fp-signature": "***HIDDEN***",
+    "x-location-detail": "{\"country\":\"INDIA\",\"country_iso_code\":\"IN\",\"pincode\":\"302001\",\"state_code\":\"08\",\"city\":\"Jaipur\",\"state\":\"Rajasthan\"}"
+  }
+}

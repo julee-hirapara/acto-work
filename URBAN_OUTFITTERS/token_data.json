@@ -1,0 +1,20 @@
+{
+    "authToken": "***HIDDEN***",
+    "expiresIn": 600,
+    "scope": "GUEST",
+    "tracer": "NMNLCZUX5O",
+    "dataCenterId": "US-PA",
+    "geoRegion": "US-PA",
+    "reauthToken": "***HIDDEN***",
+    "reauthExpiresIn": 15552000,
+    "edgescape": {
+        "regionCode": "NJ",
+        "country": "US",
+        "city": "Secaucus",
+        "zipCodes": "7094"
+    },
+    "trueClientIp": "***HIDDEN***",
+    "createdAt": 1784867958184.6072,
+    "authExpiresTime": 1784868438.184,
+    "reauthExpiresTime": 1800419958.184
+}

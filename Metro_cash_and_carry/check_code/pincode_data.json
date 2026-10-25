@@ -1,0 +1,93 @@
+{
+  "110001": {
+    "data": [
+      {
+        "sub_type": "pincode",
+        "name": "110001",
+        "error": {
+          "type": null,
+          "value": null,
+          "message": null
+        },
+        "uid": "5db290cace5de4cc176d95c6",
+        "display_name": "110001",
+        "meta": {},
+        "parents": [
+          {
+            "uid": "5db290c4ce5de4cc176d935b",
+            "name": "INDIA",
+            "display_name": "India",
+            "sub_type": "country"
+          },
+          {
+            "uid": "5db290c5ce5de4cc176d935c",
+            "name": "DELHI",
+            "display_name": "Delhi",
+            "sub_type": "state"
+          },
+          {
+            "uid": "675dcf402e86e641e5ef46f5",
+            "name": "CENTRAL_DELHI",
+            "display_name": "Central Delhi",
+            "sub_type": "city"
+          }
+        ],
+        "lat_long": {
+          "type": "Point",
+          "coordinates": [
+            77.2162,
+            28.6371
+          ]
+        },
+        "meta_code": {
+          "iso2": "IN",
+          "iso3": "IND",
+          "currency": {
+            "code": "INR",
+            "name": "Indian Rupee",
+            "symbol": "\u20b9"
+          },
+          "latitude": "28.6667",
+          "longitude": "77.2167",
+          "phone_code": "+91",
+          "zone": "red",
+          "deliverables": [
+            "essential"
+          ],
+          "parent_id": null,
+          "hierarchy": [
+            {
+              "display_name": "Pincode",
+              "slug": "pincode"
+            },
+            {
+              "display_name": "City",
+              "slug": "city"
+            },
+            {
+              "display_name": "State",
+              "slug": "state"
+            }
+          ],
+          "country_code": "IN"
+        }
+      }
+    ],
+    "error": {
+      "type": null,
+      "value": null,
+      "message": null
+    },
+    "success": true,
+    "request_uuid": "***HIDDEN***",
+    "stormbreaker_uuid": "1e218168-9522-4064-8683-efe5fa94e188"
+  },
+  "201001": null,
+  "380001": null,
+  "400078": null,
+  "400092": null,
+  "700001": null,
+  "580020": null,
+  "422001": null,
+  "302001": null
+}
